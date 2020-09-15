@@ -17,12 +17,14 @@ in the Skill IQ Leaders’ category
 - Learning Leaders -​ /api/hours
  - Skill IQ Leaders -​ /api/skilliq
 # Screen shot Images 
- Splash screen   | Learener Leader Screen | Skill IQ Leader Screen
------------- | ------------- | ------------ |
-<img alt=" Splash screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665636.png" /> | <img alt="Learener Leader Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665642.png"  /> | <img alt="Skill IQ Leader Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665647.png" /> |
 
-  Project submit Screen | Sure Dialog Screen | Post Fall Screen  | Post Success Screen
-   ------------- | ------------ | ------------- | -------------
-<img alt="Project submit Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665652.png" /> |<img alt="Sure Dialog Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665662.png"  /> |<img alt="Post Fall Scree" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665700.png"  /> |<img alt="Post Success Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665670.png"  /> 
+
+ Splash screen   | Learning Leaders Screen | Skill IQ Leaders Screen
+---------------- | ----------------------- | ----------------------- |
+<img alt=" Splash screen" src="splashscreen_NikitaAbuya.png" /> | <img alt="Learning Leaders Screen" src="Screenshot_1599665642.png"  /> | <img alt="Skill IQ Leaders Screen" src="Screenshot_1599665647.png" /> |
+
+  Submit Project Screen | Decision Dialog Screen | Post Failed Screen  | Post Succeded Screen
+   -------------------- | ---------------------- | ------------------- | -------------------
+<img alt="Submit Project Screen" src="projectsubmission_NikitaAbuya.png" /> |<img alt=" Are You Sure Dialog Screen" src="areyousure_NikitaAbuya.png"  /> |<img alt="Post Failed Screen" src="failedsubmission_NikitaAbuya.png"  /> |<img alt="Post Succeded Screen" src="successfulsubmission_NikitaAbuya.png"  /> 
 
 
